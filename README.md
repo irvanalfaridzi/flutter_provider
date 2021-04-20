@@ -1,6 +1,6 @@
 # multi_provider
 
-A new Flutter project.
+A new Flutter project with Provider package. This project implemen how to use multi provider.
 
 ## Getting Started
 
